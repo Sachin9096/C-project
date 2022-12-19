@@ -1,5 +1,6 @@
 #include<stdio.h>
 main()
 {
-printf("welcome")
+printf("welcome");
+printf("spark institute");
 }
