@@ -19,5 +19,6 @@ main()
 			printf("\t a[%d][%d]=%d",i,j,a[i][j]);
 		}
 		printf("\n");
+		printf("\n");
 	}
 }
