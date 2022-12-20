@@ -32,4 +32,5 @@ void main()
 	   printf("The candidate is not eligible.\n");
     else
      printf("The candidate is not eligible.\n");
+ printf("\n  the cantidate is eligible.\n");
 }
